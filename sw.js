@@ -29,8 +29,8 @@ define(["./workbox-9c191d2f"], function (e) {
   e.clientsClaim();
   e.precacheAndRoute(
     [
-      { url: "index.html", revision: "sync-merge-v6-20260919" },
-      { url: "assets/index-dc661b3ed7e17318.js", revision: "dc661b3ed7e17318" },
+      { url: "index.html", revision: "sync-merge-v7-20260919" },
+      { url: "assets/index-1ede68b63587b0e5.js", revision: "1ede68b63587b0e5" },
       { url: "assets/index-BDXVDP49.css", revision: null },
       { url: "assets/workbox-window.prod.es5-Bd17z0YL.js", revision: null },
       { url: "paper-texture.png", revision: "031d59948b05ded1b4ade8c980e02ddb" },
